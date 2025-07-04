@@ -29,8 +29,8 @@ tokoATK/
 ├── web/              # File JSP, HTML, CSS, JS, dan aset statis lainnya
 ├── conf/             # File konfigurasi, seperti MANIFEST.MF
 ├── lib/              # Library eksternal (file .jar)
-├── screenshots/       # Tampilan dari Aplikasi
-├── tokoatk.sql        # Database untuk diimport
+├── screenshots/      # Tampilan dari Aplikasi
+├── tokoatk.sql       # Database untuk diimport
 └── README.md         # Dokumentasi project
 
 ```
